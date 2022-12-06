@@ -1,0 +1,2 @@
+cat tail /etc/passwd
+cat tail /etc/passwd
